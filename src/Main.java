@@ -7,6 +7,12 @@ public class Main {
         PCar.color="black";
         PCar.model="V8";
         PCar.power="6000cc";
-        
+
+
+        featureLights neon=new featureLights();
+         neon.color="red";
+         neon.size="20cm";
+         neon.intensity="09876lm";
+         
     }
 }
