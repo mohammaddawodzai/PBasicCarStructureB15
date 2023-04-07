@@ -7,6 +7,14 @@ public class Main {
         PCar.color="black";
         PCar.model="V8";
         PCar.power="6000cc";
+
+        featureEngine PEngine=new featureEngine();
+
+        PEngine.Cylinders="8";
+        PEngine.size="321cc";
+        PEngine.weight="879898k";
+        
+
         
     }
 }
