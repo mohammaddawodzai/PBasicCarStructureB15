@@ -7,6 +7,12 @@ public class Main {
         PCar.color="black";
         PCar.model="V8";
         PCar.power="6000cc";
+
+        featureColor ColorP=new featureColor();
+        ColorP.colorLights="True";
+        ColorP.colorWindows="True";
+        ColorP.colorTyre="false";
+
         
     }
 }
